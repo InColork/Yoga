@@ -1,0 +1,73 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #E5E5E5;
+}
+a{
+    text-decoration: none;
+}
+.img-yoga{
+    display: block;
+    margin: 195px auto 122px auto;
+}
+input{
+    display: block;
+    border: none;
+    width: 321px;
+    height: 46px;
+    background: #F7F7F7;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    margin: 21px auto;
+}
+input::placeholder{
+    padding-left: 19px;
+    font-size: 13px;
+    line-height: 15px;
+}
+.forgot-password{
+    font-size: 13px;
+    line-height: 15px;
+    color: #000000;
+    display: block;
+    margin: 35px 0px 38px 0px;
+    text-align: right;
+    padding-right: 30px;
+}
+button{
+    display: block;
+    margin: 0 auto;
+    background: #323232;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    width: 133px;
+    height: 46px;
+    border: none;
+    color: #FFFFFF;
+}
+.link-signup{
+    display: block;
+    margin: 21px auto 62px auto;
+    text-align: center;
+    line-height: 18px;
+    color: #969696;
+}
+strong{
+    color: #323232;
+}
+p{
+    text-align: center;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+}
+.figures{
+    margin: 18px auto 80px auto;
+    text-align: center;
+}
+.middle{
+    padding: 0px 25px 0px 25px;
+}
